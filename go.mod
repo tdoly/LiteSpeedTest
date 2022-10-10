@@ -1,4 +1,4 @@
-module github.com/xxf098/lite-proxy
+module github.com/tdoly/LiteSpeedTest
 
 go 1.18
 
